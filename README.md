@@ -1,4 +1,4 @@
-# DOTA2-Match-Scraper
+# DOTA2 Match Scraper
 
 Python scripts to scrape DOTA 2 match data from the STEAM API to be used for Machine Learning.
 
